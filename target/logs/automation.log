@@ -1,0 +1,41 @@
+2026-09-03 14:24:55 INFO  LoggerUtil:17 - Starting scenario: Valid search for multiple products
+2026-09-03 14:24:55 INFO  LoggerUtil:34 - Launching browser: chrome
+2026-09-03 14:26:18 INFO  LoggerUtil:18 - Opened Flipkart homepage
+2026-09-03 14:26:45 INFO  LoggerUtil:26 - Searched for product: iPhone 16
+2026-09-03 14:26:45 INFO  LoggerUtil:21 - Search results are displayed for: iPhone 16
+2026-09-03 14:26:45 INFO  LoggerUtil:39 - Scenario PASSED: Valid search for multiple products
+2026-09-03 14:26:45 INFO  LoggerUtil:71 - Browser closed successfully
+2026-09-03 14:26:45 INFO  LoggerUtil:44 - Scenario finished: Valid search for multiple products
+2026-09-03 14:26:45 INFO  LoggerUtil:17 - Starting scenario: Valid search for multiple products
+2026-09-03 14:26:45 INFO  LoggerUtil:34 - Launching browser: chrome
+2026-09-03 14:27:56 INFO  LoggerUtil:18 - Opened Flipkart homepage
+2026-09-03 14:28:13 INFO  LoggerUtil:26 - Searched for product: Samsung Galaxy
+2026-09-03 14:28:13 INFO  LoggerUtil:21 - Search results are displayed for: Samsung Galaxy
+2026-09-03 14:28:13 INFO  LoggerUtil:39 - Scenario PASSED: Valid search for multiple products
+2026-09-03 14:28:13 INFO  LoggerUtil:71 - Browser closed successfully
+2026-09-03 14:28:13 INFO  LoggerUtil:44 - Scenario finished: Valid search for multiple products
+2026-09-03 14:28:13 INFO  LoggerUtil:17 - Starting scenario: Valid search for multiple products
+2026-09-03 14:28:13 INFO  LoggerUtil:34 - Launching browser: chrome
+2026-09-03 14:28:27 INFO  LoggerUtil:18 - Opened Flipkart homepage
+2026-09-03 14:28:58 INFO  LoggerUtil:26 - Searched for product: Wireless Earbuds
+2026-09-03 14:28:58 INFO  LoggerUtil:21 - Search results are displayed for: Wireless Earbuds
+2026-09-03 14:28:58 INFO  LoggerUtil:39 - Scenario PASSED: Valid search for multiple products
+2026-09-03 14:28:58 INFO  LoggerUtil:71 - Browser closed successfully
+2026-09-03 14:28:58 INFO  LoggerUtil:44 - Scenario finished: Valid search for multiple products
+2026-09-03 14:28:58 INFO  LoggerUtil:17 - Starting scenario: Valid search for multiple products
+2026-09-03 14:28:58 INFO  LoggerUtil:34 - Launching browser: chrome
+2026-09-03 14:29:18 INFO  LoggerUtil:18 - Opened Flipkart homepage
+2026-09-03 14:29:29 ERROR LoggerUtil:29 - Scenario FAILED: Valid search for multiple products
+2026-09-03 14:29:29 INFO  LoggerUtil:34 - Screenshot taken for failed scenario
+2026-09-03 14:29:29 INFO  LoggerUtil:71 - Browser closed successfully
+2026-09-03 14:29:29 INFO  LoggerUtil:44 - Scenario finished: Valid search for multiple products
+2026-09-03 14:29:29 INFO  LoggerUtil:17 - Starting scenario: Search with special characters
+2026-09-03 14:29:29 INFO  LoggerUtil:34 - Launching browser: chrome
+2026-09-03 14:30:01 INFO  LoggerUtil:18 - Opened Flipkart homepage
+2026-09-03 14:30:17 INFO  LoggerUtil:26 - Searched for product: @#$%^
+2026-09-03 14:30:17 ERROR LoggerUtil:23 - Search results NOT found for: @#$%^
+2026-09-03 14:30:17 ERROR LoggerUtil:30 - Assertion Failed: Results not found for @#$%^
+2026-09-03 14:30:17 ERROR LoggerUtil:29 - Scenario FAILED: Search with special characters
+2026-09-03 14:30:17 INFO  LoggerUtil:34 - Screenshot taken for failed scenario
+2026-09-03 14:30:17 INFO  LoggerUtil:71 - Browser closed successfully
+2026-09-03 14:30:17 INFO  LoggerUtil:44 - Scenario finished: Search with special characters
